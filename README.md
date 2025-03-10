@@ -22,7 +22,6 @@ syntax validation, and movement handling for connected robots.
 - sys and os modules (built-in)
 
 ## Installation
-1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo/robot-navigation-server.git
    cd robot-navigation-server
